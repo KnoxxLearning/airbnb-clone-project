@@ -72,3 +72,9 @@ Features: Post and manage reviews for properties.
 7. Database Optimizations
 Indexing: Implement indexes for fast retrieval of frequently accessed data.
 Caching: Use caching strategies to reduce database load and improve performance.
+
+API Security
+
+REST API: Detailed documentation available through the OpenAPI standard, including endpoints for users, properties, bookings, and payments.
+GraphQL API: Provides a flexible query language for retrieving and manipulating data.
+
