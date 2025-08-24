@@ -30,3 +30,21 @@ Backend Developer: Responsible for implementing API endpoints, database schemas,
 Database Administrator: Manages database design, indexing, and optimizations.
 DevOps Engineer: Handles deployment, monitoring, and scaling of the backend services.
 QA Engineer: Ensures the backend functionalities are thoroughly tested and meet quality standards.
+
+Database Design
+
+Key Entity: Users
+Fields: username, password, email, phone number
+
+Key Entity: Properties
+Fields: property name, location, key features, contact person, price for specified duration
+
+Key Entity: Bookings
+Fields: Location, Check in date, Check out date, Number of adults staying, Number of children staying
+
+Key Entity: Reviews
+Fields: Name of property, Name of Reviewer, Reviewer Location, # of stars given, Review date
+
+Key Entity: Payments
+Fields: Total Price, Price Breakdown, Currency, Account Details
+
