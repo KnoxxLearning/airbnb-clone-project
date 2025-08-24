@@ -78,3 +78,8 @@ API Security
 REST API: Detailed documentation available through the OpenAPI standard, including endpoints for users, properties, bookings, and payments.
 GraphQL API: Provides a flexible query language for retrieving and manipulating data.
 
+CI/CD Pipelines
+
+CI/CD Pipelines are automated pipelines for testing and deploying code changes.
+
+We'll be using Docker as a containerization tool for consistent development and deployment environments.
